@@ -15,4 +15,4 @@ Include,
   
   http://localhost:8080/api/v1/users get method return all users in the database
   
-  http://localhost:8080/api/v1/users get post create new record to the database
+  http://localhost:8080/api/v1/users  post create new record to the database
